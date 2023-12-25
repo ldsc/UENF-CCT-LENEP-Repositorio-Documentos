@@ -1,0 +1,42 @@
+* Documentos da Universidade Estadual Do Norte Fluminense
+** Links
+*** UENF:
+**** https://uenf.br/portal/
+*** UENF Graduação:
+**** https://uenf.br/graduacao/
+**** Calendário acadêmico:
+***** https://uenf.br/graduacao/calendario-academico/
+*** UENF Pós-graduação:
+**** https://uenf.br/posgraduacao/
+**** Calendário acadêmico:
+***** https://uenf.br/posgraduacao/calendario-academico/
+*** UENF Extensão:
+**** https://uenf.br/extensao/
+
+*** CCT - Centro De Ciência E Tecnologia:
+**** https://uenf.br/cct/
+
+*** LENEP:
+**** https://uenf.br/cct/lenep/
+*** Site curso graduação ngenharia de Exploração e Produção de Petróleo:
+**** https://uenf.br/cct/lenep/graduacao/
+*** Site curso pós graduação Engenharia Petróleo:
+**** [#B] https://uenf.br/cct/lenep/posgraduacao/
+*** Informações dos setores do LENEP:
+**** Engenharia: https://uenf.br/cct/lenep/setores/setor-de-engenharia/
+**** Geologia e geoquímica:  https://uenf.br/cct/lenep/setores/geologia-e-geoquimica/
+**** Geofísica: https://uenf.br/cct/lenep/setores/laboratorio-de-geofisica-2/
+**** Modelagem matemática computacional: https://uenf.br/cct/lenep/setores/laboratorio-de-modelagem-matematica-computacional/
+**** Petrfísica: https://uenf.br/cct/lenep/setores/setor-de-petrofisica/
+
+** Informações
+*** Vais encontrar neste diretório documentos e links da UENF, incluindo:
+**** Regimento geral da Universidade Estadual Do Norte Fluminense:
+***** http://uenf.br/dga/grh/files/2016/06/Pessoal.Regimento-interno.pdf
+**** Plano de desenvolvimento institucional:
+***** https://uenf.br/portal/wp-content/uploads/2023/12/Minuta-PDI-2023-2027-FinalRev-08-12-1.pdf
+**** Normas da graduação:
+***** https://uenf.br/graduacao/biologia/wp-content/uploads/sites/11/2020/02/NormasGraduacao-18.02.2020.pdf
+**** Regimento da pós-graduação:
+***** http://uenf.br/pos-graduacao/wp-content/uploads/2014/09/Regimento-Geral-da-P%C3%B3s-Gradua%C3%A7%C3%A3o.pdf
+**** Nota: tentamos manter aqui as versões as mais recentes, mas, é bom verificar no site da Universidade Estadual do Norte Fluminense ou sistema acadêmico se houve alguma mudança dando uma olhada no site da UENF.
